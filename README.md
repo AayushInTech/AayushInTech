@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://AayushInTech.io)
 <h1 align="center">Hi 👋, I'm Aayush Rawat</h1>
-<h3 align="center">Aayush Rawat Mobile Application Developer | .NET MAUI & Xamarin Enthusiast I am a passionate front-end developer from India with years of hands-on experience in building cross-platform mobile applications using .NET MAUI and Xamarin.Forms. I specialize in robust UI design, API integration, data binding, and third-party library integration to create seamless user experiences. My work spans mobile security, face recognition technology, and performance optimization, ensuring high-quality mobile solutions for both Android and iOS. I am always eager to learn about emerging technologies in mobile development, focusing on enhancing user experiences and app security. Let's connect and explore new possibilities in mobile innovation!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gif">
+<h2 align="center">Reimagining the way the world connects through mobile</h2>
+<img style="float: right; width: 400px;" alt="Coding" src="https://i.gifer.com/6tXM.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushintech&label=Profile%20views&color=0e75b6&style=flat" alt="aayushintech" /> </p>
