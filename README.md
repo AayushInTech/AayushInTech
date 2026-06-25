@@ -6,7 +6,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushintech&label=Profile%20views&color=0e75b6&style=flat" alt="aayushintech" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET MVC**
+- 🌱 I am a versatile Mobile and Web Application Developer with over 3 years of experience building cross-platform mobile apps and dynamic web applications. My development expertise spans modern frameworks like .NET MAUI and Xamarin for mobile, as well as .NET MVC, VB.NET, and ASP.NET Web API for robust web solutions.
+
+With a strong foundation in C#, XAML, and RESTful API integration, I specialize in delivering seamless user experiences across Android, iOS, and web platforms. Whether it's designing clean UIs, implementing secure authentication, or integrating cloud services, I ensure every solution aligns with business goals and user needs.
+
+𝐂𝐨𝐫𝐞 𝐂𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐢𝐞𝐬:
+
+• Expertise in cross-platform development using .NET MAUI and Xamarin
+• Web development with .NET MVC, VB.NET, and ASP.NET Web API
+• Proven track record in robust UI/UX design and API integration
+• Experience with mobile security best practices and Azure Face Recognition
+• Strong proficiency in client interaction, ensuring clear communication and project alignment
+• Adept at using tools like TFS, Git, Postman, TestFlight, and AppCenter for efficient development and deployment
+• Committed to delivering high-quality solutions that align with user needs while staying ahead of emerging technologies
+
+Let’s connect to explore how I can bring value to your projects through innovative mobile solutions
 
 - 👨‍💻 All of my projects are available at [https://github.com/AayushInTech?tab=repositories](https://github.com/AayushInTech?tab=repositories)
 
